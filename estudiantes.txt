@@ -1,0 +1,16 @@
+20192578014
+clave
+Sergio
+Masculino
+Sis Datos
+Primero
+Tecnologica
+2020
+20182578016
+clave
+Juan
+Masculino
+Sistemas
+Segundo
+UNAD
+2019
