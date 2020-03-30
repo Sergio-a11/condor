@@ -544,8 +544,8 @@ void ingresoAdministrador()
 										case 3:
 											editarMateria();
 										break;
-											editarNota();
 										case 4:
+												editarNota();
 										break;	
 									}	
 								}while(opc!=5);
